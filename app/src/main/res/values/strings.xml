@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Shamoon</string>
+    
+    <string-array name="public_videos">
+        <item>http://184.72.239.149/vod/smil:BigBuckBunny.smil/playlist.m3u8</item>
+        <item>http://playertest.longtailvideo.com/adaptive/wowzaid3/playlist.m3u8</item>
+        <item>http://cdn-fms.rbs.com.br/hls-vod/sample1_1500kbps.f4v.m3u8</item>
+    </string-array>
+
+    <string-array name="images_carrousel">
+        <item>https://picsum.photos/300/200</item>
+        <item>https://picsum.photos/300/201</item>
+        <item>https://picsum.photos/300/202</item>
+        <item>https://picsum.photos/300/203</item>
+        <item>https://picsum.photos/300/204</item>
+        <item>https://picsum.photos/300/205</item>
+        <item>https://picsum.photos/300/206</item>
+    </string-array>
+
+
+    <string name="evp_submit">SUBMIT</string>
+    <string name="evp_retry">RETRY</string>
+</resources>
